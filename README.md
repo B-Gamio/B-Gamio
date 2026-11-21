@@ -1,84 +1,112 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · B-GAMIO · LIVE</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=living-identity&label=b-gamio&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=living-identity&label=b-gamio&v=wow-living-identity-1&mode=dark" width="100%" alt="b-gamio animated Living Identity portrait and ASCII name" />
+  <img src="https://www.gitskins.com/api/section/hero?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=living-identity&label=b-gamio&v=wow-living-identity-1&mode=dark" width="100%" alt="b-gamio" />
 </picture>
-<p><strong>Product-minded developer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/b-gamio">GitHub</a></p>
+
+# Hola, soy Brenda 👋
+
+**Desarrolladora full stack · móvil (Kotlin, Flutter), web (Vue, React, TypeScript), backend (Java/Spring, .NET) e IoT**
+
+Construyo cosas útiles de punta a punta: desde sensores y dispositivos embebidos hasta la app que los muestra, pasando por la API y la nube.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brenda--gamio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-gamio/)
+[![Gmail](https://img.shields.io/badge/Gmail-gamiobrenda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamiobrenda@gmail.com)
+
 </div>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+---
 
-<h2>Identity, with signal</h2>
+## 🛠️ Stack
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `shipping useful work`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>0</strong> repos<br /><strong>0</strong> stars<br /><strong>527</strong> contributions<br /><strong>1</strong> followers</p></td>
-</tr>
-</table>
+**Móvil y gráficos**
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenGL ES](https://img.shields.io/badge/OpenGL_ES_3.0-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-<h2>What moves the work</h2>
+**Web**
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&items=Product-minded%20developer%3A%3AA%20point%20of%20view%20shaped%20by%20shipped%20work%7C0%20public%20repositories%3A%3AA%20body%20of%20work%20in%20motion%7C0%20stars%3A%3ACommunity%20signal%20around%20the%20work&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&items=Product-minded%20developer%3A%3AA%20point%20of%20view%20shaped%20by%20shipped%20work%7C0%20public%20repositories%3A%3AA%20body%20of%20work%20in%20motion%7C0%20stars%3A%3ACommunity%20signal%20around%20the%20work&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="b-gamio animated profile highlights" />
-</picture>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+**Backend y datos**
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-<h2>The tools behind the signal</h2>
+**IoT y embebidos**
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="b-gamio animated technology stack" />
-</picture>
+![IoT](https://img.shields.io/badge/IoT-0A7E8C?style=for-the-badge&logo=internetofthings&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Edge Computing](https://img.shields.io/badge/Edge_API-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C/C++](https://img.shields.io/badge/Embedded-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<p align="center"><sub>Open source · chosen for the work, not the trend</sub></p>
+**Scripting y herramientas**
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h2>Built, shipped, shared</h2>
-<p>Pin a few repositories to turn this section into a living proof wall.</p>
+---
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## 🌱 Portafolio: SATECHO / AgroSafe
 
-<h2>Momentum, made visible</h2>
+Plataforma de monitoreo agrícola con IoT: sensores embebidos, un servicio en el borde, un backend que ingiere los datos y apps web y móvil para gestionar cultivos y zonas de riego.
+
+| Capa | Repositorio | Tecnologías |
+| --- | --- | --- |
+| 🖥️ Web | [Web-Application-SATECHO](https://github.com/S-A-T-E-C-H-O/Web-Application-SATECHO) | Vue 3, Vite, PrimeVue, Pinia, DDD |
+| 📱 Móvil | [Mobile-Application-SATECHO](https://github.com/S-A-T-E-C-H-O/Mobile-Application-SATECHO) | Flutter, Dart |
+| ⚙️ Backend | [Web-Service-SATECHO](https://github.com/S-A-T-E-C-H-O/Web-Service-SATECHO) | Java, Spring Boot, PostgreSQL, DDD + CQRS, MQTT, JWT, Swagger, Docker |
+| 🌐 Edge | [Edge-API-Service-SATECHO](https://github.com/S-A-T-E-C-H-O/Edge-API-Service-SATECHO) | Python, Docker |
+| 🔌 Embebido | [Embedded-Application-Satecho](https://github.com/S-A-T-E-C-H-O/Embedded-Application-Satecho) | C/C++ |
+
+**Otro proyecto:** [Mobile (equipo G2, UPC)](https://github.com/G2-UPC-2520-7306-Emergentes/Mobile) — aplicación móvil en Flutter.
+
+---
+
+## 🚀 En lo que trabajo
+
+- 🎨 **Trazo** — app de dibujo y cómic ligera para tablets Android. Interfaz en Kotlin + Compose y motor propio en C++17 con OpenGL ES 3.0 (pinceles, capas, maniquí 3D con luces y sombras). _Repositorio privado._
+- 🔗 **FoodChain** — backend de trazabilidad alimentaria en Spring Boot con microservicios (API gateway, discovery server, identidad, lotes, trazabilidad y worker de blockchain), Docker Compose y Swagger. _Repositorio privado._
+
+---
+
+## 📈 Actividad
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="b-gamio animated GitHub signal" />
+  <img src="https://www.gitskins.com/api/section/stats?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Estadísticas de GitHub" />
 </picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="b-gamio contribution energy field" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Mapa de contribuciones" />
 </picture>
 
-<p align="center"><sub>0 day current streak · 43 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+---
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=b-gamio&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220613745%3Fu%3D25d1d658b58108971174cc2acb4beb7589b41790%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="b-gamio contact links" />
-</picture>
-<p><a href="https://github.com/b-gamio">GitHub</a></p>
-<p><sub>b-gamio · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+📫 **¿Hablamos?** [LinkedIn](https://www.linkedin.com/in/brenda-gamio/) · [gamiobrenda@gmail.com](mailto:gamiobrenda@gmail.com)
+
+<sub>Me gusta trabajar con gente que cuida el oficio y entrega la versión útil.</sub>
+
 </div>
