@@ -11,6 +11,7 @@
 
 Construyo cosas útiles de punta a punta: desde sensores y dispositivos embebidos hasta la app que los muestra, pasando por la API y la nube.
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-brendagamio.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://brendagamio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brenda--gamio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-gamio/)
 [![Gmail](https://img.shields.io/badge/Gmail-gamiobrenda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamiobrenda@gmail.com)
 
@@ -61,8 +62,9 @@ Construyo cosas útiles de punta a punta: desde sensores y dispositivos embebido
 **IoT y embebidos**
 
 ![IoT](https://img.shields.io/badge/IoT-0A7E8C?style=for-the-badge&logo=internetofthings&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Edge Computing](https://img.shields.io/badge/Edge_API-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Embedded C/C++](https://img.shields.io/badge/Embedded-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **QA y testing**
@@ -89,7 +91,13 @@ Construyo cosas útiles de punta a punta: desde sensores y dispositivos embebido
 
 ---
 
-## 🌱 Portafolio: SATECHO / AgroSafe
+## 🖼️ Mi portafolio
+
+Galería 3D interactiva con mis proyectos, en español e inglés: **[brendagamio.vercel.app](https://brendagamio.vercel.app/)** · código en [brenda-portfolio](https://github.com/B-Gamio/brenda-portfolio) (React, Vite y Three.js).
+
+---
+
+## 🌱 Proyecto destacado: SATECHO / AgroSafe
 
 Plataforma de monitoreo agrícola con IoT: sensores embebidos, un servicio en el borde, un backend que ingiere los datos y apps web y móvil para gestionar cultivos y zonas de riego.
 
@@ -128,7 +136,7 @@ Plataforma de monitoreo agrícola con IoT: sensores embebidos, un servicio en el
 
 <div align="center">
 
-📫 **¿Hablamos?** [LinkedIn](https://www.linkedin.com/in/brenda-gamio/) · [gamiobrenda@gmail.com](mailto:gamiobrenda@gmail.com)
+📫 **¿Hablamos?** [Portafolio](https://brendagamio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/brenda-gamio/) · [gamiobrenda@gmail.com](mailto:gamiobrenda@gmail.com)
 
 <sub>Me gusta trabajar con gente que cuida el oficio y entrega la versión útil.</sub>
 
